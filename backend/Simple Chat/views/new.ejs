@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimpleChat</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <h3>Write a new chat!</h3>
+
+    <form method="post" action="/chats">
+        <input placeholder="The person who is sending the message" name="from">
+        <textarea placeholder="Write your message here (A message can be of only 100 characters)" name="message"></textarea>
+        <input placeholder="To whom are you sending the message" name="to">
+        <button>Send</button>
+    </form>
+</body>
+</html>

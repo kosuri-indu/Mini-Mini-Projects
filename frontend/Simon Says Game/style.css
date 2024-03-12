@@ -1,0 +1,49 @@
+h1, h3{
+    font-family: "Bebas Neue", sans-serif;
+}
+.container-md{
+    border: 1px solid black;
+    border-radius: 0.4rem;
+    margin: 3rem;
+    height: 30rem;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+.line-one, .line-two{
+    gap:2rem;
+    margin-bottom: 2rem;
+}
+.card{
+    padding: 2rem;
+    width: 15rem ;
+    height: 11rem !important;
+}
+body .green{
+    background-color: #05ae08ed;
+}
+body .red{
+    background-color: #ff4338;
+}
+body .yellow{
+    background-color: #dfcc00;
+}
+body .blue{
+    background-color: #0a75c5;
+}
+.flash {
+    background-color: white;
+}
+.userflash {
+    background-color: grey;
+} 
+@keyframes flash {
+    0% {background-color: currentColor;}
+    50% {background-color: #fff;}
+    100% {background-color: currentColor;}
+}
+.flash {
+    animation: flash 0.5s linear;
+}
+.userflash {
+    animation: flash 0.5s linear;
+}
