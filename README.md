@@ -12,7 +12,7 @@ A Collection of Mini projects
 2. Backend : 
    - Chat App
 
-2. Machine Learning :
+3. Machine Learning :
    - Book Recommendation System
    - Migraine Type Prediction System
    - EDA and Time Series Forecasting on Global Warming
