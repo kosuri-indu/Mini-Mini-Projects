@@ -1,0 +1,25 @@
+h1{
+    font-family: "Bebas Neue", sans-serif;
+} 
+.container{
+    border: 1px solid black;
+    border-radius: 0.4rem;
+    margin: 3rem;
+    gap: 1rem;
+    height: 20rem;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+}
+.card{
+    padding: 2rem;
+    width: 20rem;
+}
+
+@media (max-width: 1000px) {
+    .container{
+        flex-direction: column;
+        height: 40rem;
+        align-items: center;
+    }
+    
+}
