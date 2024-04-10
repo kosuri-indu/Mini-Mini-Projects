@@ -1,6 +1,6 @@
-# Mini-Projects Collection!
+# Mini-Mini-Projects Collection!
 
-Welcome to the Mini-Projects Collection repository! This repository contains a variety of mini-projects spanning different domains.
+Welcome to the Mini-Mini-Projects Collection repository! This repository contains a variety of mini-projects spanning different domains.
 
 Explore these projects in depth by visiting each one individually:
 
